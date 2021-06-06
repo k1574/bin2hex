@@ -1,0 +1,3 @@
+<$MKINCDIR/config
+PROGNAME = bin2hex
+CFILES = main.c
